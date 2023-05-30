@@ -2,6 +2,8 @@
 
 Morpheus Chatbot is an AI-powered conversational agent inspired by the character Morpheus from "The Matrix." It utilizes the ChatGPT API developed by OpenAI to provide engaging and interactive conversations.
 
+![00106-2526331678](https://github.com/Aravinda89/Morpheus_chatbot/assets/31471559/6cdd07de-18c3-49fd-8170-b58320c85545)
+
 ## Features
 
 - Interactive chat-based interface
